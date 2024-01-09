@@ -13,4 +13,3 @@ The analysis.R file contains the description and all the code needed to run the 
 **Repository**
 
 A secured version of the data and code as used in the published article can be found on Zenodo:
-10.5281/zenodo.10473372
