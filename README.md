@@ -1,5 +1,5 @@
 # Camo_mismatch
-Data and script supporting the manuscripts on snow camouflage mismatch in northern Sweden.
+Repository for data and code for the manuscript: Otte, Pieter J., Joris P.G.M. Cromsigt, Christian Smit, and Tim R. Hofmeester. “Snow cover-related camouflage mismatch increases detection by predators.” Journal of Experimental Zoology Part A: Ecological and Integrative Physiology, 2024.
 
 **Abstract**
 
