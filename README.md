@@ -7,8 +7,9 @@ Camouflage expressed by animals is an adaptation to local environments that cert
 
 **Data**
 
-The observation file contains a camera trap data output file from Trapper as used in the manuscript. The camera_dat.xlsx file contains data on the deployments, and the missing data for decoys without observations. 
-The analysis.R file contains the description and all the code needed to run the analyiss of the manuscript.
+The analysis is split into two parts, the GLMM and the Time-to-event analyis. 
+The GLMM.R file contains the models as used and described in the manuscript. This file requires the dat.pred.csv, dat.pred.type.csv, and dat.interaction.csv files. These files contained processed data that has been retrieved from anotated camera trap data. 
+The time-to-event.R file contains the survival models as used and described in the manuscript. This file requires the dat.surv.int.csv, and dat.surv.dec.csv files. These files contain the processed data needed to create survival histories, retrieved from anotated camera trap data.
 
 **Repository**
 
