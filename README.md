@@ -13,4 +13,4 @@ The time-to-event.R file contains the survival models as used and described in t
 
 **Repository**
 
-A secured version of the data and code as used in the published article can be found on Zenodo:
+A secured version of the data and code as used in the published article can be found on Zenodo: 10.5281/zenodo.10478713
