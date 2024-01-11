@@ -11,8 +11,6 @@ library(ggsci)
 library(rcompanion)
 library(cowplot)
 
-setwd("C:/Users/piete/OneDrive/Documenten/Study/Master/Master research (2) camouflage mismatch/Publication/Github/Github.2") 
-
 #load data
 dat <- read.csv(file="dat.pred.csv", header = T)
 
